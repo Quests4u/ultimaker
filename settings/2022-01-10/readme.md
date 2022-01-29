@@ -1,5 +1,11 @@
-# ultimaker
+# ultimaker setting
 <pre>
 
-@ULTIMAKER:  converts meshed 3D CAD constructions into 3d printable gcode
+ profile coded into gcode files
+ 
+ zb.: Cp83fq20s20bs_KP_106.gcode
+         ^-- profil_%host%_8_3.....
+        
+                    
+
 </pre>
