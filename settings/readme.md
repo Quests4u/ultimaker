@@ -10,8 +10,8 @@
           ^-------- f  ..fast
            ^------- q  ..quality 20%
               ^---- s  ..0.2mm/layer
-                 ^- b  ..brim 
-                  ^ s  ..skirt
+                 ^- b  ..+brim 
+                  ^ s  ..+skirt
 
 
 
