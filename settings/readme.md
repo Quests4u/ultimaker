@@ -5,6 +5,7 @@
  used settings (profils) are coded into gcode files names
  
  zb.: _8_3fq20s20bs_KP_106.gcode
+ 
          ^--------- profil_%host%_8_3..(version)
           ^-------- f  ..fast
            ^------- q  ..quality 20%
